@@ -17,15 +17,12 @@ features:
   - icon: 🛠️
     title: 前端
     details: vue、scss、ts、vite
-  - icon:
-      src: /cool-feature-icon.svg
-    title: Another cool feature
-    details: Lorem ipsum...
-  - icon:
-      dark: /dark-feature-icon.svg
-      light: /light-feature-icon.svg
-    title: Another cool feature
-    details: Lorem ipsum...
+  - icon: 🛠️
+    title: 后端
+    details: Java
+  - icon: 🛠️
+    title: AI
+    details: python
 ---
 
 <style>
